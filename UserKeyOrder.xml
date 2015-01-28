@@ -1,0 +1,12 @@
+<ICE_keyOrder>
+	<order name = 'usr defined name'>
+		<key> 'key1' </key>
+		<key> 'key2' </key>
+	</order>
+	
+	<order name = 'usr defined name'>
+		<key> 'key1, key2 . . .' </key>
+	</order>
+
+
+</ICE_keyOrder>
