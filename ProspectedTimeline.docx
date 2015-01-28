@@ -1,0 +1,32 @@
+1.	URL extractor – place urls in python structure (list)
+  a.	Time frame: 1 week
+2.	Make XML token file
+  a.	Manually build at first
+  b.	Has all the tokens for parsing the opa357
+  c.	Make sure each token correctly parses every key from the html script
+  d.	Time frame: 1.5 week
+3.	Extractor subroutine for token XML file
+  a.	Extract from XML, print the keys, verify the keys are correct
+  b.	Time frame: 1 week
+4.	Parse html script
+  a.	Grab all info from html script based on the tokens in the xml document
+  b.	Print and verify the info is correct
+  c.	Time frame: 2-3 week
+5.	NOTES
+  a.	Section 2, 3 and 4 should probably be worked on together
+  b.	Those sections also need to be iterable
+    i.	Once finished with all the sections, verify that you can perform all the tasks multiple times in a row
+  c.	3 and 4 in particular will probably be worked on together
+6.	HTML information XML generator
+  a.	Take data parsed from html file and place into xml file
+  b.	Verify the info is both correct and correctly formatted
+  c.	Time frame: 2-3 week
+7.	Key order XML file generator
+  a.	Out of all the keys, enter a few specific ones to display
+  b.	Pull out the data corresponding to the user specified keys
+  c.	Print out info in the correct order (CAN ALSO BE PRINTED TO CSV FILE)
+  d.	Time frame: 1 week
+8.	Place key info in correct format into csv file
+  a.	Time frame: 1 week
+9.	Custom(user defined) key / token generator
+10.	GUI
