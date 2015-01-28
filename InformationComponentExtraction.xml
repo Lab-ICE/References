@@ -1,0 +1,21 @@
+<ICE>
+	<part name = 'part'>
+		<url> 'url' </url>
+		<keys>
+			<key> 'key name' </key>
+			<key> 'key name2' </key>
+		</keys>
+		
+		<values> 
+			<value name = 'key name'> 'value' </value>
+			<value name = 'key name2'> 'value2' </value>
+		</values>
+	</part>
+	
+	<part name = 'part2'>
+	
+	
+	</part>
+
+
+</ICE>
